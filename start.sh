@@ -1,1 +1,2 @@
-.\cythonlastirma.py build_ext
+#!/bin/bash
+./cythonization.py build_ext
